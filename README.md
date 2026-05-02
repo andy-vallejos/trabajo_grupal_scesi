@@ -28,7 +28,7 @@ El objetivo es crear una comunidad donde la retroalimentación sea útil, honest
 ---
 
 ## Tecnologías utilizadas 
-- ** HTML5** -estructura de la página
+- **HTML5** -estructura de la página
 - **CSS3** - diseños y estilos
 - **JavaScript(vainilla)** -lógica del frontend
 - **Fetch API** -comunicación con el backend 
