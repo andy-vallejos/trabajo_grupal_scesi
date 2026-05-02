@@ -8,10 +8,10 @@
   Plataforma de reseñas académicas anónimas
 </p>
 ## Integrantes
-Nicole Rico Mendoza
-Andy Vallejos Bascope 	  	
-Fausto Jafeth Vilches Mendieta
-Brittany Brenely Jimenez Argote (se retiro de la postulacion)
+- Nicole Rico Mendoza
+- Andy Vallejos Bascope 	  	
+- Fausto Jafeth Vilches Mendieta
+- Brittany Brenely Jimenez Argote (se retiro de la postulacion)
 ## Descripcion
 JavaLimos es una aplicacion web que permite a estudiantes compartir
 sus experiencias académicas de forma completamente anónima.
