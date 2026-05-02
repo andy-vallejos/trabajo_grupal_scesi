@@ -32,6 +32,78 @@
         </p>
       </div>
     </section>
+    <main class="main-content">
+  <aside class="submission-panel">
+    <section class="card-container">
+      <header class="card-header">
+        <h3><i class="icon-plus">+</i> Nueva Reseña</h3>
+      </header>
+
+      <form class="review-form">
+        <fieldset class="form-field">
+          <legend>Información Académica</legend>
+          
+          <label for="profesor">Nombre del Profesor</label>
+          <input type="text" id="profesor" name="profesor" placeholder="Ej. Dr. García" required>
+
+          <label for="materia">Materia / Curso</label>
+          <input type="text" id="materia" name="materia" placeholder="Ej. Matemáticas Aplicadas" required>
+        </fieldset>
+
+        <fieldset class="form-field">
+          <legend>Tu Comentario</legend>
+          
+          <label for="comentario">Tu Reseña</label>
+          <textarea id="comentario" name="comentario" placeholder="Escribe tu experiencia aquí..." required></textarea>
+          
+          <footer class="form-footer">
+            <small class="privacy-label">🔒 Tu identidad permanecerá completamente anónima.</small>
+          </footer>
+        </fieldset>
+
+        <section class="rating-selector">
+          <label for="progreso">Progreso</label>
+          <input type="range" id="progreso" name="progreso" min="0" max="100" value="50">
+        </section>
+
+        <button type="submit" class="btn-primary">Publicar Reseña Anónima</button>
+      </form>
+    </section>
+
+    <section class="privacy-commitment">
+      <h4>🛡️ Compromiso de Privacidad</h4>
+      <p>Utilizamos encriptación de extremo a extremo para asegurar que ninguna reseña pueda ser rastreada hasta su autor. Tu honestidad ayuda a mejorar la calidad educativa.</p>
+    </section>
+  </aside>
+
+  <section class="feed-panel">
+    <header class="feed-header">
+      <h2>Reseñas Recientes</h2>
+      <button class="filter-btn">Filtrar por: <strong>Recientes</strong></button>
+    </header>
+
+    <div class="reviews-list">
+      <article class="review-item">
+        <header class="review-item-header">
+          <hgroup>
+            <h4>Dra. Elena Rodriguez</h4>
+            <mark class="course-tag">FÍSICA CUÁNTICA</mark>
+          </hgroup>
+          <aside class="score-data">
+            <data value="4.8" class="score-value">4.8</data>
+            <time datetime="PT2H">hace 2 horas</time>
+          </aside>
+        </header>
+        <p class="review-text">Excelente metodología. Explica conceptos complejos con mucha paciencia y siempre está dispuesta a resolver dudas después de clase.</p>
+      </article>
+
+      <!-- Botón de acción final -->
+      <nav class="feed-navigation">
+        <button class="btn-outline">Cargar más reseñas</button>
+      </nav>
+    </div>
+  </section>
+</main>
     <script src="api.js"></script>
   </body>
 </html>
