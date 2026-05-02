@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="javalimos.png" alt="JavaLimos Logo" width="200"/>
+  <img src="javalimos.jpeg" alt="JavaLimos Logo" width="200"/>
 </p>
 
 <h1 align="center">📘 JavaLimos</h1>
@@ -7,7 +7,11 @@
 <p align="center">
   Plataforma de reseñas académicas anónimas
 </p>
-
+## Integrantes
+Nicole Rico Mendoza
+Andy Vallejos Bascope 	  	
+Fausto Jafeth Vilches Mendieta
+Brittany Brenely Jimenez Argote (se retiro de la postulacion)
 ## Descripcion
 JavaLimos es una aplicacion web que permite a estudiantes compartir
 sus experiencias académicas de forma completamente anónima.
