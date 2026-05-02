@@ -7,26 +7,32 @@
 <p align="center">
   Plataforma de reseñas académicas anónimas
 </p>
-## Integrantes
-- Nicole Rico Mendoza
-- Andy Vallejos Bascope 	  	
-- Fausto Jafeth Vilches Mendieta
-- Brittany Brenely Jimenez Argote (se retiro de la postulacion)
-## Descripcion
-JavaLimos es una aplicacion web que permite a estudiantes compartir
-sus experiencias académicas de forma completamente anónima.
-El objetivo es crear una Comunidad donde la retroalimentación
-Los usuarios pueden:
 
-- Publicar reseñas sobre profesores y materias
-- Ver comentarios de otros estudiantes
-- Contribuir de forma segura y anónima
+---
+
+## 👥 Integrantes
+
+- Nicole Rico Mendoza  
+- Andy Vallejos Bascope  
+- Fausto Jafeth Vilches Mendieta  
+- Brittany Brenely Jimenez Argote *(se retiró de la postulación)*  
+
+---
+
+## 📖 Descripción
+
+JavaLimos es una aplicación web que permite a estudiantes compartir sus experiencias académicas de forma completamente anónima.
+
+El objetivo es crear una comunidad donde la retroalimentación sea útil, honesta y accesible para todos.
+
+---
+
 ## Tecnologías utilizadas 
-- HTML5 -estructura de la página
-- CSS3 - diseños y estilos
-- JavaScript(vainilla) -lógica del frontend
-- Fetch API -comunicación con el backend 
--API REST -almacenamiento y gestor de reseña 
+- ** HTML5** -estructura de la página
+- **CSS3** - diseños y estilos
+- **JavaScript(vainilla)** -lógica del frontend
+- **Fetch API** -comunicación con el backend 
+- **API REST** -almacenamiento y gestor de reseña 
 ## Estructura del proyecto 
 ``` 📁 proyecto/
 │
